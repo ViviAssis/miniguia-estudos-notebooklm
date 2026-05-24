@@ -27,7 +27,7 @@ Natureza Interpretada e Portável:Como uma linguagem interpretada, o código Pyt
 Multiparadigma: A linguagem permite diferentes estilos de programação, podendo ser utilizada de forma procedural, orientada a objetos ou funcional.
 Tipagem Dinâmica:O Python infere automaticamente o tipo de dado de uma variável a partir do valor atribuído a ela, não sendo necessário declarar o tipo explicitamente pelo programador.
 Filosofia "Zen do Python": O desenvolvimento em Python é guiado por uma filosofia que preza pela simplicidade e clareza. Alguns de seus princípios são: "bonito é melhor que feio", "explícito é melhor que implícito" e "se a implementação é difícil de explicar, é uma má ideia".
-Extensibilidade e Ecossistema: Embora seja fácil de usar, Python é extensível, permitindo a adição de módulos em outras linguagens (como C) para aumentar a performance. Além disso, possui uma **biblioteca padrão extensa** e inúmeros frameworks que facilitam seu uso em áreas como Ciência de Dados, Inteligência Artificial, desenvolvimento web e automação.
+Extensibilidade e Ecossistema: Embora seja fácil de usar, Python é extensível, permitindo a adição de módulos em outras linguagens (como C) para aumentar a performance. Além disso, possui uma biblioteca padrão extensa e inúmeros frameworks que facilitam seu uso em áreas como Ciência de Dados, Inteligência Artificial, desenvolvimento web e automação.
 Atualmente, Python é a linguagem mais popular do mundo, sendo utilizada por gigantes da tecnologia como Google, Netflix e Spotify para diversos processos e serviços.
 
 2- Crie um resumo sobre Python aplicado na prática do dia a dia.
