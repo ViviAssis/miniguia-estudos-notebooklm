@@ -22,12 +22,17 @@ O Python é uma linguagem de programação de alto nível, poderosa e amplamente
 
 Os principais pilares que definem o conceito do Python incluem:
 
-## Sintaxe e Legibilidade:Python possui uma sintaxe limpa e utiliza a indentação obrigatória para delimitar blocos de código, o que força o programador a manter o código organizado e legível.
-##  Natureza Interpretada e Portável:Como uma linguagem interpretada, o código Python não precisa ser compilado antes de ser executado, o que o torna portável e capaz de rodar em qualquer tipo de máquina ou sistema operacional.
-## Multiparadigma: A linguagem permite diferentes estilos de programação, podendo ser utilizada de forma procedural, orientada a objetos ou funcional.
-## Tipagem Dinâmica:O Python infere automaticamente o tipo de dado de uma variável a partir do valor atribuído a ela, não sendo necessário declarar o tipo explicitamente pelo programador.
-## Filosofia "Zen do Python": O desenvolvimento em Python é guiado por uma filosofia que preza pela simplicidade e clareza. Alguns de seus princípios são: "bonito é melhor que feio", "explícito é melhor que implícito" e "se a implementação é difícil de explicar, é uma má ideia".
-## Extensibilidade e Ecossistema: Embora seja fácil de usar, Python é extensível, permitindo a adição de módulos em outras linguagens (como C) para aumentar a performance. Além disso, possui uma biblioteca padrão extensa e inúmeros frameworks que facilitam seu uso em áreas como Ciência de Dados, Inteligência Artificial, desenvolvimento web e automação.
+ Sintaxe e Legibilidade:Python possui uma sintaxe limpa e utiliza a indentação obrigatória para delimitar blocos de código, o que força o programador a manter o código organizado e legível.
+ 
+ Natureza Interpretada e Portável:Como uma linguagem interpretada, o código Python não precisa ser compilado antes de ser executado, o que o torna portável e capaz de rodar em qualquer tipo de máquina ou sistema operacional.
+ 
+ Multiparadigma: A linguagem permite diferentes estilos de programação, podendo ser utilizada de forma procedural, orientada a objetos ou funcional.
+ 
+ Tipagem Dinâmica:O Python infere automaticamente o tipo de dado de uma variável a partir do valor atribuído a ela, não sendo necessário declarar o tipo explicitamente pelo programador.
+ 
+Filosofia "Zen do Python": O desenvolvimento em Python é guiado por uma filosofia que preza pela simplicidade e clareza. Alguns de seus princípios são: "bonito é melhor que feio", "explícito é melhor que implícito" e "se a implementação é difícil de explicar, é uma má ideia".
+
+ Extensibilidade e Ecossistema: Embora seja fácil de usar, Python é extensível, permitindo a adição de módulos em outras linguagens (como C) para aumentar a performance. Além disso, possui uma biblioteca padrão extensa e inúmeros frameworks que facilitam seu uso em áreas como Ciência de Dados, Inteligência Artificial, desenvolvimento web e automação.
 
 Atualmente, Python é a linguagem mais popular do mundo, sendo utilizada por gigantes da tecnologia como Google, Netflix e Spotify para diversos processos e serviços.
 
@@ -60,8 +65,8 @@ Python é fundamental na criação de objetos inteligentes que facilitam a vida 
 
 ### 5. Desenvolvimento Web e Aplicativos
 Grandes empresas como Google, NASA e YouTube utilizam Python em seus sistemas.
-  É usado para criar o "backend" (a lógica interna) de sites e aplicações complexas que acessam bancos de dados.
-  Também permite o desenvolvimento de jogos simples e interfaces gráficas para aplicativos de computador.
+ É usado para criar o "backend" (a lógica interna) de sites e aplicações complexas que acessam bancos de dados.
+ Também permite o desenvolvimento de jogos simples e interfaces gráficas para aplicativos de computador.
  
  3- Liste os principais benefícios do Python, em relação, aos outros programas
 
@@ -69,15 +74,21 @@ Grandes empresas como Google, NASA e YouTube utilizam Python em seus sistemas.
 
 Os principais benefícios citados nas fontes são:
 
-## Facilidade de Aprendizado e Leitura:O Python é amplamente reconhecido por ser fácil de codificar e ler, apresentando uma sintaxe limpa que prioriza a legibilidade. Sua filosofia, conhecida como o "Zen do Python", preza por códigos bonitos, explícitos e simples, evitando implementações difíceis de explicar.
-## Natureza Gratuita e de Código Aberto: Trata-se de um software livre e de código aberto, o que permite seu uso irrestrito em projetos, inclusive comerciais, sem custos de licenciamento.
-## Portabilidade e Interpretação: Por ser uma linguagem interpretada, o Python é altamente portável, permitindo que o mesmo script rode em diversas plataformas e máquinas (plataforma cruzada).
-## Extensa Biblioteca Padrão: A linguagem possui uma biblioteca padrão muito vasta, oferecendo uma série de recursos extras e funcionalidades prontas que podem ser agregadas aos projetos.
-## Multiparadigma: Ao contrário de programas mais rígidos, o Python permite diferentes estilos de programação, podendo ser utilizado de forma procedural, orientada a objetos ou funcional.
-## Eficiência no Desenvolvimento: Criado para estar entre a complexidade da linguagem C e a simplicidade dos scripts de Shell, o Python permite desenvolver utilitários de forma muito mais rápida do que em C, mantendo um poder de execução próximo.
-## Extensibilidade:Caso o desempenho não seja o ideal em certas tarefas, a linguagem permite a adição de extensões feitas em outras linguagens (como C) para aumentar a performance.
-## Comunidade e Suporte: Existe uma documentação abundante e uma comunidade democrática muito forte, facilitando a resolução de problemas e o aprendizado constante.
-## Ampla Aplicabilidade Prática: Sua versatilidade permite o uso em áreas de ponta como Ciência de Dados, Inteligência Artificial, Machine Learning, IoT e automação de processos.
+ Facilidade de Aprendizado e Leitura:O Python é amplamente reconhecido por ser fácil de codificar e ler, apresentando uma sintaxe limpa que prioriza a legibilidade. Sua filosofia, conhecida como o "Zen do Python", preza por códigos bonitos, explícitos e simples, evitando implementações difíceis de explicar. 
+ 
+ Natureza Gratuita e de Código Aberto: Trata-se de um software livre e de código aberto, o que permite seu uso irrestrito em projetos, inclusive comerciais, sem custos de licenciamento.
+ 
+Portabilidade e Interpretação: Por ser uma linguagem interpretada, o Python é altamente portável, permitindo que o mesmo script rode em diversas plataformas e máquinas (plataforma cruzada).
+
+Extensa Biblioteca Padrão: A linguagem possui uma biblioteca padrão muito vasta, oferecendo uma série de recursos extras e funcionalidades prontas que podem ser agregadas aos projetos.
+
+Multiparadigma: Ao contrário de programas mais rígidos, o Python permite diferentes estilos de programação, podendo ser utilizado de forma procedural, orientada a objetos ou funcional.
+
+Eficiência no Desenvolvimento: Criado para estar entre a complexidade da linguagem C e a simplicidade dos scripts de Shell, o Python permite desenvolver utilitários de forma muito mais rápida do que em C, mantendo um  poder de execução próximo.
+
+Extensibilidade:Caso o desempenho não seja o ideal em certas tarefas, a linguagem permite a adição de extensões feitas em outras linguagens (como C) para aumentar a performance. Comunidade e Suporte: Existe uma documentação abundante e uma comunidade democrática muito forte, facilitando a resolução de problemas e o aprendizado constante.
+
+ Ampla Aplicabilidade Prática: Sua versatilidade permite o uso em áreas de ponta como Ciência de Dados, Inteligência Artificial, Machine Learning, IoT e automação de processos.
 
 ## 📖 Miniguia
 Resumo dos estudos realizados.
